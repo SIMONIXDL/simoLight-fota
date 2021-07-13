@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/simoLight-fota/main/firmware.bin"
+    "bin": "/SIMONIXDL/simoLight-fota/main/firmware.bin"
 }
