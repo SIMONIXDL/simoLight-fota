@@ -1,6 +1,6 @@
 {
     "type": "simo1gFOTA",
-    "version": 2,
+    "version": 2.1,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/SIMONIXDL/simoLight-fota/main/firmware.bin"
